@@ -19,7 +19,3 @@ function add() {
 function del(e) {
     e.parentNode.remove();
 }
-
-
-
-
